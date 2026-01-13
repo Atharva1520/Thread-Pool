@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+*.user
+*.suo
+
+# Build output
+out/
+build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# OS
+.DS_Store
