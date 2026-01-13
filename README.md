@@ -31,26 +31,6 @@ This project demonstrates how real-world backend systems manage concurrency effi
 
 ---
 
-## 📂 Project Structure
-
-ThreadPool-Design/
-│
-├── include/
-│ ├── ThreadPool.h
-│ └── TaskQueue.h
-│
-├── src/
-│ ├── ThreadPool.cpp
-│ └── TaskQueue.cpp
-│
-├── main.cpp
-└── README.md
-
-yaml
-Copy code
-
----
-
 ## ⚙️ Design Overview
 
 ### Producer–Consumer Model
